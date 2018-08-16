@@ -1,8 +1,8 @@
-# vagransible_oracle\
+# vagransible_oracle
 ## a way to automate virtualbox hosts running oracle databases using ansible as a configuration manager tool (rather than bash)
 Thiago Bodi - 16/08/2018: repository and Vagrantfile created
 
-### Instance setup to be deployed:\
+### Instance setup to be deployed:
 **Linux distro:** oracle enterprise linux 6.9\
 **Oracle database:** 11.2.0.4 (to be obtained from oracle support patch 13390677, files 1 and 2)\
 No ASM\
